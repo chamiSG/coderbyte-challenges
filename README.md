@@ -2,6 +2,10 @@
 
 ### JavaScript
 #
+- #### [Palindrome Creator](https://github.com/chamiSG/coderbyte-challenges/blob/master/PalindromeCreator.js)
+- #### [Word Split](https://github.com/chamiSG/coderbyte-challenges/blob/master/WordSplit.js)
 
-- #### Palindrome Creator  [https://rickandmortyapi.com/documentation/](https://rickandmortyapi.com/documentation/)
+### SQL
+#
+- #### [SQL Sort Ages](https://github.com/chamiSG/coderbyte-challenges/blob/master/sql-sort-ages.sql)
 
